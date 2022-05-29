@@ -1,0 +1,3 @@
+name: pulumi-containers
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program to host a container
